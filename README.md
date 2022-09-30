@@ -1,5 +1,6 @@
-# lem_in
-**Trouver tous les chemins et décider de ceux qui en valent la peine**
+# lem_in 
+
+**on utilise tous gps dans nos trajets couront pour nous trouver le chemin le plus rapide, avec ce projet lem-in de reproduit l'algorithme de gps**
 
 Subject:
 
