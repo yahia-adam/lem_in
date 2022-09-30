@@ -1,6 +1,6 @@
 # lem_in 
 
-**on utilise tous gps dans nos trajets couront pour nous trouver le chemin le plus rapide, avec ce projet lem-in de reproduit l'algorithme de gps**
+**on utilise tous GPS dans nos trajets couront pour nous trouver le chemin le plus rapide: à travers cette technologie ce cache un algorithme complexe qui teste les combinaisons de tous les chemins existant pour effectuer ce trajet pour en suit choisir le plus rapide d'entre eux. Avec ce projet lem-in je reproduit l'algorithme de GPS**
 
 Subject:
 
